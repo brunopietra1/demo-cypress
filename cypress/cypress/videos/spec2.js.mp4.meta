@@ -1,0 +1,21 @@
+;FFMETADATA1
+[CHAPTER]
+TIMEBASE=1/1000
+START=2024
+END=1602
+title=Teste End-to-End Teste 1: Visita Página
+[CHAPTER]
+TIMEBASE=1/1000
+START=1126
+END=1182
+title=Teste End-to-End Teste 2: Verifica item na página
+[CHAPTER]
+TIMEBASE=1/1000
+START=-1287
+END=1239
+title=Teste End-to-End Teste 3: Calcula Frete
+[CHAPTER]
+TIMEBASE=1/1000
+START=1568
+END=3767
+title=Teste End-to-End Teste 4: Compra Livro
